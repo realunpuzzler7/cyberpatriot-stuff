@@ -1,0 +1,39 @@
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+
+
+http://old.imaginary.ml/writeups/system-hardening-4.html
+
+Unique ID: <CENSORED>
+
+Forensics Question 1 correct - 8 pts
+Forensics Question 2 correct - 8 pts
+Forensics Question 3 correct - 8 pts
+Forensics Question 4 correct - 8 pts
+Removed unauthorized user morgoth - 3 pts
+Removed unauthorized user sauron - 3 pts
+Removed hidden user gollum - 4 pts
+User bilbo is not an administrator - 3 pts
+Changed insecure password for user samwise - 4 pts
+Removed unauthorized software ophcrack - 3 pts
+A secure maximum password age exists - 3 pts
+MD5 is not used for password hashing - 4 pts
+Passwords are required to be complex - 4 pts
+Removed backdoored command wall - 7 pts
+Removed Boromir's plans for world domination - 8 pts
+Sudo has been updated - 8 pts
+SSH forces protocol 2 - 7 pts
+SSH root login disabled - 7 pts
+
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
+# WE MAXED THIS IMAGE!!!!!!
